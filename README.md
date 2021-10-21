@@ -24,7 +24,7 @@ hyperparameters = {
   pronouns: 'she' | 'her',
   code 👨🏼‍💻: ['Python', 'C', 'Pytorch', 'Tensorflow', 'Fastai', 'Keras', 'Postgres', 'Mysql'],
   tools ⚒: ['Flask',  'Docker', ''],
-  cloud ☁️: ['AWS', 'GCP],
+  cloud ☁️: ['AWS', 'GCP'],
   blog : 'https://bhuvana-kundumani.medium.com/',
   twitter :'KA_Bhuvana',
 }
