@@ -22,9 +22,9 @@
 ```python
 hyperparameters = {
   pronouns: 'she' | 'her',
-  code 👨🏼‍💻: ['Python', 'C', 'Pytorch', 'Tensorflow', 'Fastai', 'Keras', 'Postgres', 'Mysql'],
-  tools ⚒: ['Flask',  'Docker', ''],
-  cloud ☁️: ['AWS', 'GCP'],
+  code 👨🏼‍💻: ['Python', 'C', 'Pytorch', 'Tensorflow', 'Fastai', 'Keras', 'Postgres', 'Mysql', 'MongoDB'],
+  tools ⚒: ['Flask',  'Docker'],
+  cloud ☁️: ['AWS', 'GCP', 'Azure],
   blog : 'https://bhuvana-kundumani.medium.com/',
   twitter :'KA_Bhuvana',
 }
